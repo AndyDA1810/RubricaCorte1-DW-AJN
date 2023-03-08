@@ -104,13 +104,23 @@ li a{
     gap: 10px;
     margin: auto;
 }
+.tarjeta img{
+    padding: 2%;
+    border-radius: 10px;
+}
+.imagenmb img{
+    background-color: #D4F0FF;
+}
+.imagenpc img{
+    background-color: #FFEED4;
+}
+.imagenws img{
+    background-color: #FFDED4;
+}
 .imagen3{
     grid-column: 1;
     grid-row: 1/3;
     margin-top: -90px;
-}
-.imagen3 img{
-    width: 100%;
 }
 .titulo3{
     grid-column: 2;
